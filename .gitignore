@@ -1,14 +1,5 @@
 .idea
-10/.ipynb_checkpoints
-10/data.py
-10/*.csv
-11/.ipynb_checkpoints
-11/*.csv
-12/.ipynb_checkpoints
-12/*.csv
-13/*.csv
-13/.ipynb_checkpoints
-14/.ipynb_checkpoints
-14/*.csv
-14/*.xlsx
+**/.ipynb_checkpoints
+**/*.csv
+**/*.xlsx
 
